@@ -5,9 +5,9 @@ import string
 import os
 import json
 
-TOKEN = "توکن ربات اصلی"  # تغییر بده
+TOKEN = "7920918778:AAFF4MDkYX4qBpuyXyBgcuCssLa6vjmTN1c"
 CHANNEL = "@hottof"
-ADMINS = [123456789]  # آیدی عددی‌های ادمین‌ها
+ADMINS = [6387942633]  # آیدی عددی‌های ادمین‌ها
 CHECKER_BOT_USERNAME = "TofLinkBot"
 
 bot = telebot.TeleBot(TOKEN)
