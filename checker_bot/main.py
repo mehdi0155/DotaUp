@@ -3,7 +3,7 @@ import os
 import json
 from flask import Flask, request
 
-TOKEN = "توکن ربات چکر"  # تغییر بده
+TOKEN = "7679592392:AAFK0BHxrvxH_I23UGveiVGzc_-M10lPUOA"
 REQUIRED_CHANNELS = ["@hottof"]
 DB_FILE = "db.json"
 
